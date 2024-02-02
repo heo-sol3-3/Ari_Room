@@ -80,7 +80,7 @@ topBt.addEventListener("click",e=>{
 });
 
 for(let i=0;i<con2lis.length;i++){
-  con2lis[i].style.background = `url("../images/bg${i}.jpg") no-repeat`;
+  con2lis[i].style.background = `url("../Ari_Room/images/bg${i}.jpg") no-repeat`;
   con2lis[i].style.backgroundSize = `cover`;
 }
 
